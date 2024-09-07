@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CA1</title>
+</head>
+<body>
+    <h1><b>Health Management: <big>A Guide to Wellness</big></b>
+    </h1>
+    <p>your pathway to <mark>a healthier life</mark>
+    </p>
+    <h2>Introduction</h2>
+    <p>Health Management <sub>is a comprehensive</sub> approach to maintaining and improving health . It involves making informed <small>choices,engaging</small>in healthy behaviors, and utilizing <sup>medical resources</sup>effectively to<br>promote overall well-being.</p>
+    <h2>The Importance pf Health Management</h2>
+    <p>Managing your health is crucial in preventing chronic diseases,improving quality of lifespan. By talking control of your health,<i>you can reduce the risk</i>of developing conditions<strike>such<br>as </strike>heart disease,diabetes and obesity.</p>
+    <h2>Key Components of Health Management</h2>
+    <ol type ="a">
+        <li><b>Nutrition:</b>a balanced diet provides the nutrients your body needs to function optimally.Focus on whole foods,including fruits,vegetables,lean proteins,and whole grains.</li>
+        <li>Mental Health: managing stress,getting enough sleep,and engaging in activities that promote <u>mental well-being are</u>essential for overall.</li>
+        <li><b>Preventive Care:</b>Regular check-ups,screenings,and <sup>vaccinations</sup><sub>i portant for</sub> detecting and preventing health issues early.</li>
+    </ol>
+    <h2>Tips for effective Health Management</h2>
+    <ul type="circle">
+        <li><b>Monitor your progress:</b>Track your health metrics,<mark>such as</mark>weight,blood pressure,and cholestrol levels, to stay on top of your health.</li>
+        <li><b>seek support:</b>Surround yourself with a supportive network of <strike>families</strike>family,friends,or a healthcare team <u>to help</u>you stay motivated.</li>
+
+    </ul>
+    <h2>Conclusion</h2>
+    <p>Health management is a lifelong journey that requires commitment and proactive effort.By focusing on the key components of gealth and following practical tips,you can enhance your well-being and<br>lead to a healthier,happier life.</p>
+</body>
+</html
